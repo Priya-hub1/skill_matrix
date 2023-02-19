@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.error-message{
+    background-color: #b7d6ec;
+    text-align:center;
+    height:100vh;
+}
